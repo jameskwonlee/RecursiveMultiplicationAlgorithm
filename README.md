@@ -20,7 +20,7 @@ Input your desired "multiplier" and "multiplicand" in the corresponding variable
 <br>Your inputs have to be integers in powers of 2, i.e. 2, 4, 8, 16 . . . 2^n <br/>
 
 ### Note: 
-Integers in python are much more precise than Python. The star equation is explicitly cast as an integer, but this can be changed if desired. 
+Integers in python are much more precise than floats Python. The star equation is explicitly cast as an integer, but this can be changed if desired. 
 
 
 
